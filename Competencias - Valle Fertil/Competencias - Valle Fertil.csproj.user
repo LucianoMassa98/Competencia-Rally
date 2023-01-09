@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="src\forms\CarreraPlay\CarreraPlay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="src\forms\Piloto\DetallePiloto\detallePiloto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="src\forms\CarreraPlay\PlayArranque.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="src\forms\CarreraPlay\SemaforoLargada.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="src\forms\Carrera\CarrerasAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="src\forms\Carrera\CarrerasForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="src\forms\Categoria\CategoriasForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="src\forms\Categoria\CategoriaUpdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="src\forms\Inicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="src\forms\Participacion\ParticipacionAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="src\forms\Participacion\ParticipacionesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="src\forms\Piloto\PilotosAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="src\forms\Piloto\PilotosForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

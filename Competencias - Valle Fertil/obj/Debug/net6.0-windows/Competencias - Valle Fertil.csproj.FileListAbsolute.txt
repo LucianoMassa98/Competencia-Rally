@@ -1,0 +1,98 @@
+C:\Users\Luciano\Competencias - Valle Fertil\Competencias - Valle Fertil\bin\Debug\net6.0-windows\Competencias - Valle Fertil.exe
+C:\Users\Luciano\Competencias - Valle Fertil\Competencias - Valle Fertil\bin\Debug\net6.0-windows\Competencias - Valle Fertil.deps.json
+C:\Users\Luciano\Competencias - Valle Fertil\Competencias - Valle Fertil\bin\Debug\net6.0-windows\Competencias - Valle Fertil.runtimeconfig.json
+C:\Users\Luciano\Competencias - Valle Fertil\Competencias - Valle Fertil\bin\Debug\net6.0-windows\Competencias - Valle Fertil.dll
+C:\Users\Luciano\Competencias - Valle Fertil\Competencias - Valle Fertil\bin\Debug\net6.0-windows\Competencias - Valle Fertil.pdb
+C:\Users\Luciano\Competencias - Valle Fertil\Competencias - Valle Fertil\obj\Debug\net6.0-windows\Competencias - Valle Fertil.csproj.AssemblyReference.cache
+C:\Users\Luciano\Competencias - Valle Fertil\Competencias - Valle Fertil\obj\Debug\net6.0-windows\Competencias___Valle_Fertil.Inicio.resources
+C:\Users\Luciano\Competencias - Valle Fertil\Competencias - Valle Fertil\obj\Debug\net6.0-windows\Competencias - Valle Fertil.csproj.GenerateResource.cache
+C:\Users\Luciano\Competencias - Valle Fertil\Competencias - Valle Fertil\obj\Debug\net6.0-windows\Competencias - Valle Fertil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luciano\Competencias - Valle Fertil\Competencias - Valle Fertil\obj\Debug\net6.0-windows\Competencias - Valle Fertil.AssemblyInfoInputs.cache
+C:\Users\Luciano\Competencias - Valle Fertil\Competencias - Valle Fertil\obj\Debug\net6.0-windows\Competencias - Valle Fertil.AssemblyInfo.cs
+C:\Users\Luciano\Competencias - Valle Fertil\Competencias - Valle Fertil\obj\Debug\net6.0-windows\Competencias - Valle Fertil.csproj.CoreCompileInputs.cache
+C:\Users\Luciano\Competencias - Valle Fertil\Competencias - Valle Fertil\obj\Debug\net6.0-windows\Competencias - Valle Fertil.dll
+C:\Users\Luciano\Competencias - Valle Fertil\Competencias - Valle Fertil\obj\Debug\net6.0-windows\refint\Competencias - Valle Fertil.dll
+C:\Users\Luciano\Competencias - Valle Fertil\Competencias - Valle Fertil\obj\Debug\net6.0-windows\Competencias - Valle Fertil.pdb
+C:\Users\Luciano\Competencias - Valle Fertil\Competencias - Valle Fertil\obj\Debug\net6.0-windows\Competencias - Valle Fertil.genruntimeconfig.cache
+C:\Users\Luciano\Competencias - Valle Fertil\Competencias - Valle Fertil\obj\Debug\net6.0-windows\ref\Competencias - Valle Fertil.dll
+C:\Users\Luciano\Competencias - Valle Fertil\Competencias - Valle Fertil\obj\Debug\net6.0-windows\Competencias___Valle_Fertil.Properties.Resources.resources
+C:\Users\Luciano\Competencias - Valle Fertil\Competencias - Valle Fertil\obj\Debug\net6.0-windows\Competencias___Valle_Fertil.CategoriasForm.resources
+C:\Users\Luciano\Competencias - Valle Fertil\Competencias - Valle Fertil\obj\Debug\net6.0-windows\Competencias___Valle_Fertil.CategoriasAdd.resources
+C:\Users\Luciano\Competencias - Valle Fertil\Competencias - Valle Fertil\obj\Debug\net6.0-windows\Competencias___Valle_Fertil.CategoriasRemove.resources
+C:\Users\Luciano\Competencias - Valle Fertil\Competencias - Valle Fertil\obj\Debug\net6.0-windows\Competencias___Valle_Fertil.CategoriaUpdate.resources
+C:\Users\Luciano\Competencias - Valle Fertil\Competencias - Valle Fertil\obj\Debug\net6.0-windows\Competencias___Valle_Fertil.PilotosAdd.resources
+C:\Users\Luciano\Competencias - Valle Fertil\Competencias - Valle Fertil\obj\Debug\net6.0-windows\Competencias___Valle_Fertil.PilotosForm.resources
+C:\Users\Luciano\Competencias - Valle Fertil\Competencias - Valle Fertil\obj\Debug\net6.0-windows\Competencias___Valle_Fertil.PilotosRemove.resources
+C:\Users\Luciano\Competencias - Valle Fertil\Competencias - Valle Fertil\obj\Debug\net6.0-windows\Competencias___Valle_Fertil.PilotosUpdate.resources
+C:\Users\Luciano\Competencias - Valle Fertil\Competencias - Valle Fertil\obj\Debug\net6.0-windows\Competencias___Valle_Fertil.CarrerasForm.resources
+C:\Users\Luciano\Competencias - Valle Fertil\Competencias - Valle Fertil\obj\Debug\net6.0-windows\Competencias___Valle_Fertil.CarrerasAdd.resources
+C:\Users\Luciano\Competencias - Valle Fertil\Competencias - Valle Fertil\obj\Debug\net6.0-windows\Competencias___Valle_Fertil.CarrerasUpdate.resources
+C:\Users\Luciano\Competencias - Valle Fertil\Competencias - Valle Fertil\obj\Debug\net6.0-windows\Competencias___Valle_Fertil.CarrerasRemove.resources
+C:\Users\Luciano\Competencias - Valle Fertil\Competencias - Valle Fertil\obj\Debug\net6.0-windows\Competencias___Valle_Fertil.ParticipacionesForm.resources
+C:\Users\Luciano\Competencias - Valle Fertil\Competencias - Valle Fertil\obj\Debug\net6.0-windows\Competencias___Valle_Fertil.ParticipacionAdd.resources
+C:\Users\Luciano\Competencias - Valle Fertil\Competencias - Valle Fertil\obj\Debug\net6.0-windows\Competencias___Valle_Fertil.ParticipacionRemove.resources
+C:\Users\Luciano\Competencias - Valle Fertil\Competencias - Valle Fertil\obj\Debug\net6.0-windows\Competencias___Valle_Fertil.ParticipacionUpdate.resources
+C:\Users\Luciano\Competencias - Valle Fertil\Competencias - Valle Fertil\obj\Debug\net6.0-windows\Competencias___Valle_Fertil.CarreraPlay.resources
+C:\Users\Luciano\Competencias - Valle Fertil\Competencias - Valle Fertil\obj\Debug\net6.0-windows\Competencias___Valle_Fertil.PlayArranque.resources
+C:\Users\Luciano\Competencias - Valle Fertil\Competencias - Valle Fertil\obj\Debug\net6.0-windows\Competencias___Valle_Fertil.PlayFreno.resources
+C:\Users\Luciano\Competencias - Valle Fertil\Competencias - Valle Fertil\obj\Debug\net6.0-windows\Competencias___Valle_Fertil.PlayMulta.resources
+C:\Users\Luciano\Competencias - Valle Fertil\Competencias - Valle Fertil\obj\Debug\net6.0-windows\Competencias___Valle_Fertil.PlayPosiciones.resources
+C:\Users\Luciano\Competencias - Valle Fertil\Competencias - Valle Fertil\bin\Debug\net6.0-windows\itextsharp.dll
+C:\Users\Luciano\Competencias - Valle Fertil\Competencias - Valle Fertil\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Luciano\Competencias - Valle Fertil\Competencias - Valle Fertil\obj\Debug\net6.0-windows\Competencias - Valle Fertil.csproj.CopyComplete
+C:\Users\Luciano\Competencias - Valle Fertil\Competencias - Valle Fertil\obj\Debug\net6.0-windows\Competencias___Valle_Fertil.PlayGenerales.resources
+C:\Users\Luciano\Competencias - Valle Fertil\Competencias - Valle Fertil\obj\Debug\net6.0-windows\Competencias___Valle_Fertil.CarrerasRemoveAll.resources
+C:\Users\Luciano\Competencias - Valle Fertil\Competencias - Valle Fertil\obj\Debug\net6.0-windows\Competencias___Valle_Fertil.ParticipacionRemoveAll.resources
+C:\Users\Ramiro\Competencias - Valle Fertil\Competencias - Valle Fertil\obj\Debug\net6.0-windows\Competencias - Valle Fertil.csproj.AssemblyReference.cache
+C:\Users\Ramiro\Competencias - Valle Fertil\Competencias - Valle Fertil\obj\Debug\net6.0-windows\Competencias___Valle_Fertil.Properties.Resources.resources
+C:\Users\Ramiro\Competencias - Valle Fertil\Competencias - Valle Fertil\obj\Debug\net6.0-windows\Competencias___Valle_Fertil.CarreraPlay.resources
+C:\Users\Ramiro\Competencias - Valle Fertil\Competencias - Valle Fertil\obj\Debug\net6.0-windows\Competencias___Valle_Fertil.PlayArranque.resources
+C:\Users\Ramiro\Competencias - Valle Fertil\Competencias - Valle Fertil\obj\Debug\net6.0-windows\Competencias___Valle_Fertil.PlayFreno.resources
+C:\Users\Ramiro\Competencias - Valle Fertil\Competencias - Valle Fertil\obj\Debug\net6.0-windows\Competencias___Valle_Fertil.PlayGenerales.resources
+C:\Users\Ramiro\Competencias - Valle Fertil\Competencias - Valle Fertil\obj\Debug\net6.0-windows\Competencias___Valle_Fertil.PlayMulta.resources
+C:\Users\Ramiro\Competencias - Valle Fertil\Competencias - Valle Fertil\obj\Debug\net6.0-windows\Competencias___Valle_Fertil.PlayPosiciones.resources
+C:\Users\Ramiro\Competencias - Valle Fertil\Competencias - Valle Fertil\obj\Debug\net6.0-windows\Competencias___Valle_Fertil.CarrerasAdd.resources
+C:\Users\Ramiro\Competencias - Valle Fertil\Competencias - Valle Fertil\obj\Debug\net6.0-windows\Competencias___Valle_Fertil.CarrerasForm.resources
+C:\Users\Ramiro\Competencias - Valle Fertil\Competencias - Valle Fertil\obj\Debug\net6.0-windows\Competencias___Valle_Fertil.CarrerasRemove.resources
+C:\Users\Ramiro\Competencias - Valle Fertil\Competencias - Valle Fertil\obj\Debug\net6.0-windows\Competencias___Valle_Fertil.CarrerasRemoveAll.resources
+C:\Users\Ramiro\Competencias - Valle Fertil\Competencias - Valle Fertil\obj\Debug\net6.0-windows\Competencias___Valle_Fertil.CarrerasUpdate.resources
+C:\Users\Ramiro\Competencias - Valle Fertil\Competencias - Valle Fertil\obj\Debug\net6.0-windows\Competencias___Valle_Fertil.CategoriasAdd.resources
+C:\Users\Ramiro\Competencias - Valle Fertil\Competencias - Valle Fertil\obj\Debug\net6.0-windows\Competencias___Valle_Fertil.CategoriasForm.resources
+C:\Users\Ramiro\Competencias - Valle Fertil\Competencias - Valle Fertil\obj\Debug\net6.0-windows\Competencias___Valle_Fertil.CategoriasRemove.resources
+C:\Users\Ramiro\Competencias - Valle Fertil\Competencias - Valle Fertil\obj\Debug\net6.0-windows\Competencias___Valle_Fertil.CategoriaUpdate.resources
+C:\Users\Ramiro\Competencias - Valle Fertil\Competencias - Valle Fertil\obj\Debug\net6.0-windows\Competencias___Valle_Fertil.Inicio.resources
+C:\Users\Ramiro\Competencias - Valle Fertil\Competencias - Valle Fertil\obj\Debug\net6.0-windows\Competencias___Valle_Fertil.ParticipacionAdd.resources
+C:\Users\Ramiro\Competencias - Valle Fertil\Competencias - Valle Fertil\obj\Debug\net6.0-windows\Competencias___Valle_Fertil.ParticipacionesForm.resources
+C:\Users\Ramiro\Competencias - Valle Fertil\Competencias - Valle Fertil\obj\Debug\net6.0-windows\Competencias___Valle_Fertil.ParticipacionRemove.resources
+C:\Users\Ramiro\Competencias - Valle Fertil\Competencias - Valle Fertil\obj\Debug\net6.0-windows\Competencias___Valle_Fertil.ParticipacionRemoveAll.resources
+C:\Users\Ramiro\Competencias - Valle Fertil\Competencias - Valle Fertil\obj\Debug\net6.0-windows\Competencias___Valle_Fertil.ParticipacionUpdate.resources
+C:\Users\Ramiro\Competencias - Valle Fertil\Competencias - Valle Fertil\obj\Debug\net6.0-windows\Competencias___Valle_Fertil.PilotosAdd.resources
+C:\Users\Ramiro\Competencias - Valle Fertil\Competencias - Valle Fertil\obj\Debug\net6.0-windows\Competencias___Valle_Fertil.PilotosForm.resources
+C:\Users\Ramiro\Competencias - Valle Fertil\Competencias - Valle Fertil\obj\Debug\net6.0-windows\Competencias___Valle_Fertil.PilotosRemove.resources
+C:\Users\Ramiro\Competencias - Valle Fertil\Competencias - Valle Fertil\obj\Debug\net6.0-windows\Competencias___Valle_Fertil.PilotosUpdate.resources
+C:\Users\Ramiro\Competencias - Valle Fertil\Competencias - Valle Fertil\obj\Debug\net6.0-windows\Competencias - Valle Fertil.csproj.GenerateResource.cache
+C:\Users\Ramiro\Competencias - Valle Fertil\Competencias - Valle Fertil\obj\Debug\net6.0-windows\Competencias - Valle Fertil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ramiro\Competencias - Valle Fertil\Competencias - Valle Fertil\obj\Debug\net6.0-windows\Competencias - Valle Fertil.AssemblyInfoInputs.cache
+C:\Users\Ramiro\Competencias - Valle Fertil\Competencias - Valle Fertil\obj\Debug\net6.0-windows\Competencias - Valle Fertil.AssemblyInfo.cs
+C:\Users\Ramiro\Competencias - Valle Fertil\Competencias - Valle Fertil\obj\Debug\net6.0-windows\Competencias - Valle Fertil.csproj.CoreCompileInputs.cache
+C:\Users\Ramiro\Competencias - Valle Fertil\Competencias - Valle Fertil\obj\Debug\net6.0-windows\Competencias - Valle Fertil.dll
+C:\Users\Ramiro\Competencias - Valle Fertil\Competencias - Valle Fertil\obj\Debug\net6.0-windows\refint\Competencias - Valle Fertil.dll
+C:\Users\Ramiro\Competencias - Valle Fertil\Competencias - Valle Fertil\obj\Debug\net6.0-windows\Competencias - Valle Fertil.pdb
+C:\Users\Ramiro\Competencias - Valle Fertil\Competencias - Valle Fertil\bin\Debug\net6.0-windows\Competencias - Valle Fertil.exe
+C:\Users\Ramiro\Competencias - Valle Fertil\Competencias - Valle Fertil\bin\Debug\net6.0-windows\Competencias - Valle Fertil.deps.json
+C:\Users\Ramiro\Competencias - Valle Fertil\Competencias - Valle Fertil\bin\Debug\net6.0-windows\Competencias - Valle Fertil.runtimeconfig.json
+C:\Users\Ramiro\Competencias - Valle Fertil\Competencias - Valle Fertil\bin\Debug\net6.0-windows\Competencias - Valle Fertil.dll
+C:\Users\Ramiro\Competencias - Valle Fertil\Competencias - Valle Fertil\bin\Debug\net6.0-windows\Competencias - Valle Fertil.pdb
+C:\Users\Ramiro\Competencias - Valle Fertil\Competencias - Valle Fertil\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Ramiro\Competencias - Valle Fertil\Competencias - Valle Fertil\bin\Debug\net6.0-windows\itextsharp.dll
+C:\Users\Ramiro\Competencias - Valle Fertil\Competencias - Valle Fertil\obj\Debug\net6.0-windows\Competencias - Valle Fertil.csproj.CopyComplete
+C:\Users\Ramiro\Competencias - Valle Fertil\Competencias - Valle Fertil\obj\Debug\net6.0-windows\Competencias - Valle Fertil.genruntimeconfig.cache
+C:\Users\Ramiro\Competencias - Valle Fertil\Competencias - Valle Fertil\obj\Debug\net6.0-windows\ref\Competencias - Valle Fertil.dll
+C:\Users\Ramiro\Competencias - Valle Fertil\Competencias - Valle Fertil\obj\Debug\net6.0-windows\Competencias___Valle_Fertil.detallePiloto.resources
+C:\Users\Luciano\Competencias - Valle Fertil\Competencias - Valle Fertil\obj\Debug\net6.0-windows\Competencias___Valle_Fertil.detallePiloto.resources
+C:\Users\Luciano\Competencias - Valle Fertil\Competencias - Valle Fertil\obj\Debug\net6.0-windows\Competencias___Valle_Fertil.PlayManual.resources
+C:\Users\Luciano\Competencias - Valle Fertil\Competencias - Valle Fertil\obj\Debug\net6.0-windows\Competencias___Valle_Fertil.SemaforoLargada.resources
+C:\Users\Luciano\Competencias - Valle Fertil\Competencias - Valle Fertil\obj\Debug\net6.0-windows\Competencias___Valle_Fertil.AddArranque.resources
+C:\Users\Luciano\Competencias - Valle Fertil\Competencias - Valle Fertil\obj\Debug\net6.0-windows\Competencias___Valle_Fertil.AddFreno.resources
+C:\Users\Luciano\Competencias - Valle Fertil\Competencias - Valle Fertil\obj\Debug\net6.0-windows\Competencias___Valle_Fertil.AddRonda.resources
+C:\Users\Luciano\Competencias - Valle Fertil\Competencias - Valle Fertil\obj\Debug\net6.0-windows\Competencias___Valle_Fertil.SeleccionarCategoria.resources

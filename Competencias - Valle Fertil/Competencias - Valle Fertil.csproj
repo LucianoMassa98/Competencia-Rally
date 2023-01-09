@@ -1,0 +1,95 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <RootNamespace>Competencias___Valle_Fertil</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="iTextSharp" Version="5.5.13.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="itextsharp">
+      <HintPath>..\..\OneDrive\SetData\MyG\Debug\itextsharp.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Update="src\forms\CarreraPlay\SeleccionarCategoria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="src\forms\Piloto\DetallePiloto\AddRonda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="src\forms\Piloto\DetallePiloto\AddFreno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="src\forms\Piloto\DetallePiloto\AddArranque.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="src\forms\CarreraPlay\PlayManual.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="src\forms\CarreraPlay\PlayFreno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="src\forms\CarreraPlay\PlayGenerales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="src\forms\CarreraPlay\PlayPosiciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="src\forms\CarreraPlay\PlayMulta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="src\forms\Carrera\CarrerasRemoveAll.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="src\forms\Carrera\CarrerasRemove.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="src\forms\Carrera\CarrerasUpdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="src\forms\Categoria\CategoriasRemove.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="src\forms\Categoria\CategoriasAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="src\forms\Participacion\ParticipacionRemoveAll.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="src\forms\Participacion\ParticipacionUpdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="src\forms\Participacion\ParticipacionRemove.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="src\forms\Piloto\PilotosUpdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="src\forms\Piloto\PilotosRemove.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+</Project>
